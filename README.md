@@ -4,7 +4,7 @@ This repository contains the ELEMYO Library designed for Arduino microcontroller
 
 ## 1 Introduction
 
-ELEMYO Library is an Arduino IDE library designed for integrating MYO v1. EMG sensors with Arduino microcontrollers.
+ELEMYO Library is an Arduino IDE library designed for integrating MYO v1.* EMG sensors with Arduino microcontrollers.
 
 ## 2 Support
 
